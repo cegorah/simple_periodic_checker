@@ -1,9 +1,3 @@
-# TODO
-* Pydantic
-* Tests
-* Endpoints
-* Decorators
-
 # Solution
 There are two packages that could be launched separately.  
 `PeriodicChecker` is using for creating the task and send a response to the second one.  
