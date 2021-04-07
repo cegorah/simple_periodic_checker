@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  processing_service:
+    build: .
+    env_file:
+      - ./.env.prod
